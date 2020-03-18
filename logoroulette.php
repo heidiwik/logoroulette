@@ -2,7 +2,7 @@
 /*
 	Plugin name: Logo Roulette
 	Description: Show sponsor logos on sidebar widget
-	Version: 0.3
+	Version: 1.0
 	Author: heidiwik
 	License: GPLv2 or later
 */
