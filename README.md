@@ -1,13 +1,13 @@
 # Logo roulette 
 
-Shows sponsor logos in widget at random order. Links to sponsor website. 
+WordPress-plugin for displaying sponsor logos in widget at random order. Links to sponsor website. 
 
 ## Description 
 
 
 ## Installation
 
-Upload the plugin to your website and activate it
+Upload the plugin to your WP and activate it
 
 Navigate to Logo Roulette page on admin panel
 
