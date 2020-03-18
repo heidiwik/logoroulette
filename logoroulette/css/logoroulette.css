@@ -1,0 +1,16 @@
+#logoruletti {
+    margin-top: 2em;
+}
+
+#logot {
+    background: #fff;
+    width: auto;  
+    display: inline-block;
+}
+
+.logo {
+    padding: 1em;
+    border-left: 1px solid #f1f1f1;
+    text-align: center;
+    display: inline-block;
+}
